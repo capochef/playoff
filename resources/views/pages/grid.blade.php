@@ -2,6 +2,12 @@
 
 @section('content')
 
+<div class="">
+    <a href="playoff?prevision=win">Previsione vittoria</a>
+    <a href="playoff?prevision=lose">Previsione sconfitta</a>
+    <a href="playoff">Attuale</a>
+</div>
+
 <h1>NORD</h1>
 
 <table class="table">
